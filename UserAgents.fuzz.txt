@@ -1404,7 +1404,6 @@ Mozilla/4.76 (Windows 98; U) Opera 5.12 [en]
 Mozilla/4.76 [en] (X11; U; FreeBSD 4.4-STABLE i386)
 Mozilla/4.76 [en] (X11; U; SunOS 5.7 sun4u)
 Mozilla/4.77C-SGI [en] (X11; U; IRIX 6.5 IP32)
-Mozilla/5.0
 Mozilla/5.0 (+http://www.eurekster.com/mammoth) Mammoth/0.1
 Mozilla/5.0 (+http://www.sli-systems.com/) Mammoth/0.1
 Mozilla/5.0 (Clustered-Search-Bot/1.0; support@clush.com; http://www.clush.com/)
