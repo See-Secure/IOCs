@@ -663,8 +663,6 @@ gonzo2[P] +http://www.suchen.de/faq.html
 Goofer/0.2
 Google Talk
 googlebot (larbin2.6.0@unspecified.mail)
-Googlebot-Image/1.0
-Googlebot-Image/1.0 ( http://www.googlebot.com/bot.html)
 Googlebot/2.1 ( http://www.google.com/bot.html)
 Googlebot/2.1 ( http://www.googlebot.com/bot.html)
 Googlebot/Test ( http://www.googlebot.com/bot.html)
@@ -1122,7 +1120,6 @@ Mouse-House/7.4 (spider_monkey spider info at www.mobrien.com/sm.shtml)
 MovableType/x.x
 mozDex/0.xx-dev (mozDex; http://www.mozdex.com/en/bot.html; spider@mozdex.com)
 Mozi!
-Mozilla
 Mozilla (libwhisker/2.4)
 Mozilla (Mozilla@somewhere.com)
 Mozilla 4.0(compatible; BotSeer/1.0; +http://botseer.ist.psu.edu)
@@ -2345,7 +2342,6 @@ WinampMPEG/2.00 (larbin@unspecified.mail)
 WincerSong Agent v1.0
 Windows-Media-Player/10.00.00.xxxx
 WinGet 1.1
-WinHTTP Example/1.0
 WinkBot/0.06 (Wink.com search engine web crawler; http://www.wink.com/Wink:WinkBot; winkbot@wink.com)
 WinPodder (http://winpodder.com)
 WinWAP/3.x (3.x.x.xx; Win32) (Google WAP Proxy/1.0)
